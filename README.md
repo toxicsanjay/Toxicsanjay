@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=toxicsanjay" alt="toxicsanjay" /></a> </p>
 
-- 🔭 I’m currently working on [infinite selfbot v3](https://github.com/toxicsanjay/Infinite-SelfbotV3)
+- 🔭 I’m currently working on none)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
